@@ -1,9 +1,16 @@
 UzhavuSetu: Pre-Order Based Farm-to-Institution Vegetable Marketplace
 
 SIH Problem Statement: SIH 26033, Multiple intermediaries reduce farmers' earnings and increase consumer prices
+
 Organization: Ministry of Consumer Affairs, Food & Public Distribution
 Theme: Agriculture, FoodTech & Rural Development
-Author: Praveen S | Reference No.: 26000307 | Date: 24 November 2026
+
+
+Author: Praveen S 
+
+Reference No.: 26000307
+
+Date: 24 November 2026
 
 1. Problem
 
